@@ -9,4 +9,4 @@ A/B testing, split testing atau bucket testing merupakan metode untuk menguji ve
 Studi kasus ini menggunakan a/b testing untuk membandingkan efektivitas antara dua marketing campaign yang ditunjukkan oleh tiga metrik yaitu Click Through Rate (CTR), Conversion Rate, dan Cost Per Clicks (CPC)
 
 # Hasil Analisa
-[Medium]()
+[Medium](https://medium.com/@budiati.ria/marketing-campaign-analysis-with-a-b-test-db1f63ceed14)
